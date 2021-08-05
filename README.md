@@ -1,4 +1,4 @@
-<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" alt="drawing" width="200"/>
+<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" alt="drawing" width="50%" align="center"/>
 
 # Introdução à Análise de Dados
 
