@@ -1,7 +1,7 @@
 # Introdução à Análise de Dados
 
 [Introdução à Análise Exploratória de Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T1_Introducao_a_Analise_de_Dados.ipynb) (Aula 1) 
-[Vídeo]() [Baixe a Solução]()
+> [Vídeo]() [Baixe a Solução]()
 
 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) (Aulas 2,3)
 
