@@ -30,6 +30,24 @@ Estudos de Caso (Aula 13)
 
 Análise de Dados com Ferramentas (Aula 14) 
 
-# Referências
+# Textos Complementares
+
+
+
+# Bibliografia Complementar
+
+![imagem](https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
+[Book](https://r4ds.had.co.nz/index.html)
 
 ![imagem](https://covers.oreillystatic.com/images/0636920050896/cat.gif)
+Book Data and Code Notebooks: https://github.com/wesm/pydata-book
+
+![imagem](https://user-images.githubusercontent.com/58958893/128409802-170bed67-cb1f-44ef-99c5-4ebdc481e734.png)
+[Book](https://learnbyexample.github.io/100_page_python_intro/cover.html)
+
+
+
+
+
+
+
