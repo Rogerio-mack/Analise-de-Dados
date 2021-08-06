@@ -48,7 +48,7 @@ Análise de Dados com Ferramentas (Aula 14)
 
 
 <p>
-<small>
+<font size="2">
 Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie.
-  </small>  
+  </font>  
 </p>  
