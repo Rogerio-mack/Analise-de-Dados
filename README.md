@@ -33,6 +33,8 @@ Análise de Dados com Ferramentas (Aula 14)
 
 ## Bibliografia Complementar
 
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width="100"/>
+
 [Book](https://r4ds.had.co.nz/index.html)
 
 <img src="https://covers.oreillystatic.com/images/0636920050896/cat.gif" width="100"/>
