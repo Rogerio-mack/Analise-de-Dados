@@ -4,6 +4,7 @@
 
 # Introdução à Análise de Dados
 
+
 [Introdução à Análise Exploratória de Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T1_Introducao_a_Analise_de_Dados.ipynb) (Aula 1) 
 
 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) (Aulas 2,3)
@@ -46,5 +47,8 @@ Análise de Dados com Ferramentas (Aula 14)
 [Book](https://learnbyexample.github.io/100_page_python_intro/cover.html)
 
 
-
-
+<p>
+<small>
+Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie.
+  </small>  
+</p>  
