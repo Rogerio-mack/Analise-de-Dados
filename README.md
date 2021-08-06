@@ -4,10 +4,12 @@
 
 # Introdução à Análise de Dados
 
-
+## Introdução
 [Introdução à Análise Exploratória de Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T1_Introducao_a_Analise_de_Dados.ipynb) (Aula 1) 
 
 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) (Aulas 2,3)
+
+## Seleção e Transformação de Dados
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
 
@@ -17,15 +19,21 @@
 
 [Transformações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T6_Pandas_Transformacoes.ipynb) (Aula 7)
 
+## Visualização dos Dados
+
 [Introdução à Visualização de Dados (Matplotlib)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T7_Matplotlib_Visualizacao.ipynb) (Aula 8)
 
 [Evolução e Distribuição dos Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T8_Evolucao_e_Distribuicao.ipynb) (Aula 9)
 
 [Quantidades e Relações dos Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T9_Quantidades_e_Relacoes.ipynb) (Aula 10)
 
+## SQL 
+
 [SQL Comandos Básicos](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T10_SQL_Comandos_Basicos.ipynb) (Aula 11)
 
 [SQL Joins](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T11_SQL_Joins.ipynb) (Aula 12)
+
+## Estudos de Caso e Ferramentas
 
 Estudos de Caso (Aula 13) 
 
