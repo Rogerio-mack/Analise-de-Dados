@@ -46,6 +46,7 @@ Análise de Dados com Ferramentas (Aula 14)
 
 [Book](https://learnbyexample.github.io/100_page_python_intro/cover.html)
 
+<br />
 
-<font size="1">Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie.</font>  
+Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie
 
