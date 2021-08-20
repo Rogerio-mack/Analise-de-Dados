@@ -9,6 +9,10 @@
 
 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) (Aulas 2,3)
 
+> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
+
+> [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
+
 ## Seleção e Transformação de Dados
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
