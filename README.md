@@ -13,6 +13,8 @@
 
 > [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
 
+> [Material Complementar com Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
+
 ## Seleção e Transformação de Dados
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
