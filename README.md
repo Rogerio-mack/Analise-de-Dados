@@ -15,6 +15,8 @@
 
 ## Seleção e Transformação de Dados
 
+>> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
 
 [Seleção de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T4_Pandas_Selecao.ipynb) (Aula 5) 
@@ -24,6 +26,8 @@
 [Transformações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T6_Pandas_Transformacoes.ipynb) (Aula 7)
 
 ## Visualização dos Dados
+
+>> [Matplotlib Cheat Sheet png](https://github.com/matplotlib/cheatsheets/blob/master/handout-beginner.png)
 
 [Introdução à Visualização de Dados (Matplotlib)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T7_Matplotlib_Visualizacao.ipynb) (Aula 8)
 
