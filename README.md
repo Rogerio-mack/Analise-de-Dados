@@ -9,13 +9,11 @@
 
 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) (Aulas 2,3)
 
-> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
+>> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
  |  [(Complementar) Exercícios Resolvidos](https://github.com/Rogerio-mack/Introducao_Python_I/blob/main/README.md)
 
 ## Seleção e Transformação de Dados
-
->> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
 
@@ -25,15 +23,19 @@
 
 [Transformações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T6_Pandas_Transformacoes.ipynb) (Aula 7)
 
-## Visualização dos Dados
+>> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
->> [Matplotlib Cheat Sheet png](https://github.com/matplotlib/cheatsheets/blob/master/handout-beginner.png)
+
+## Visualização dos Dados
 
 [Introdução à Visualização de Dados (Matplotlib)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T7_Matplotlib_Visualizacao.ipynb) (Aula 8)
 
 [Evolução e Distribuição dos Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T8_Evolucao_e_Distribuicao.ipynb) (Aula 9)
 
 [Quantidades e Relações dos Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T9_Quantidades_e_Relacoes.ipynb) (Aula 10)
+
+>> [Matplotlib Cheat Sheet png](https://github.com/matplotlib/cheatsheets/blob/master/handout-beginner.png)
+
 
 ## SQL 
 
