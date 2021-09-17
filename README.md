@@ -17,6 +17,8 @@
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
 
+>> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 >> [Kit (Caixa de Ferramentas) Aquisição: Contas de Restaurantes](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Kit_Aquisicao.ipynb)  
 
 [Seleção de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T4_Pandas_Selecao.ipynb) (Aula 5) 
@@ -27,7 +29,7 @@
 
 [Transformações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T6_Pandas_Transformacoes.ipynb) (Aula 7)
 
->> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 
 
 ## Visualização dos Dados
