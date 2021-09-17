@@ -17,8 +17,11 @@
 
 [Aquisição de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb) (Aula 4) 
 
+>> [Kit (Caixa de Ferramentas) Aquisição: Contas de Restaurantes](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Kit_Aquisicao.ipynb)  
+
 [Seleção de Dados (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T4_Pandas_Selecao.ipynb) (Aula 5) 
 
+>> [Kit (Caixa de Ferramentas) Aquisição: Carteira Ibovespa](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T4_Pandas_Kit_Selecao.ipynb)    
 [Agregações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T5_Pandas_Agregacoes.ipynb) (Aula 6) 
 
 [Transformações (Pandas)](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T6_Pandas_Transformacoes.ipynb) (Aula 7)
