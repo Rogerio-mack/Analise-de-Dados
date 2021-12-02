@@ -72,9 +72,6 @@ Análise de Dados com Ferramentas (Aula 14)
 [Book](https://learnbyexample.github.io/100_page_python_intro/cover.html)
 
 
-<br />
-Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie
-
 <br>
 ## Exemplo de Projeto Final dos Alunos
 
@@ -83,4 +80,8 @@ Material compartilhado para disciplinas de Análise de Dados da Universidade Pre
 >> [Python notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/6Q11_GAPMINDER_BRIC_PROJETO2.ipynb)
 >> [Vídeo de Apresentação](http://meusite.mackenzie.br/rogerio/data_load/EDA_2021S2/BRIC/Analise de dados.mp4) 
 >> [Datafólio](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Datafolio_6Q11_BRIC.pdf)
+
+
+<br>
+Material compartilhado para disciplinas de Análise de Dados da Universidade Presbiteriana Mackenzie
 
