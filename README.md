@@ -76,10 +76,11 @@ Análise de Dados com Ferramentas (Aula 14)
 
 ## Exemplo de Projeto Final dos Alunos
 
-> **BRIC – Indicadores de Desenvolvimento Dados** *Matheus Hideki 41519558, Renan Moreira 31807224, Mariana Lima 41560647, Ana Paula Rosa 41991729*
+> **BRIC – Indicadores de Desenvolvimento Dados** 
+> *Matheus Hideki 41519558, Renan Moreira 31807224, Mariana Lima 41560647, Ana Paula Rosa 41991729*
 
 >> [Python notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/6Q11_GAPMINDER_BRIC_PROJETO2.ipynb)
->> [Vídeo de Apresentação]('http://meusite.mackenzie.br/rogerio/data_load/EDA_2021S2/BRIC/Analise_de_dados.mp4') 
+>> [Vídeo de Apresentação](http://meusite.mackenzie.br/rogerio/data_load/EDA_2021S2/BRIC/Analise_de_dados.mp4) 
 >> [Datafólio](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Datafolio_6Q11_BRIC.pdf)
 
 
